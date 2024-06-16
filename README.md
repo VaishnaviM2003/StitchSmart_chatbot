@@ -13,8 +13,7 @@ This bot is an interactive chatbot designed to assist users in selecting dress d
 - Development Environment: Google Colab.
 
 ## Example Interaction
-'''
-User: hi
+'''User: hi
 Bot: Hello there. Customize stitching services at your doorstep! What dress style are you looking for?
 
 User: 15
